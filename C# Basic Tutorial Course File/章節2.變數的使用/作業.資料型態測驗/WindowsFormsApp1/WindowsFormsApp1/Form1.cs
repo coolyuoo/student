@@ -244,6 +244,57 @@ namespace WindowsFormsApp1
                 q1_11.ForeColor = Color.Red;
                 q1_11.Text = "錯誤 A:decimal";
             }
+
+
+            if (textBox15.Text.ToLower() == "true")
+            {
+                q2_4.ForeColor = Color.Green;
+                q2_4.Text = "正確";
+            }
+            else if (textBox15.Text == "")
+            {
+                q2_4.ForeColor = Color.Green;
+                q2_4.Text = "請填寫答案";
+            }
+            else
+            {
+                q2_4.ForeColor = Color.Red;
+                q2_4.Text = "錯誤 A:true";
+            }
+
+
+            if (textBox16.Text.ToLower() == "false")
+            {
+                q2_5.ForeColor = Color.Green;
+                q2_5.Text = "正確";
+            }
+            else if (textBox16.Text == "")
+            {
+                q2_5.ForeColor = Color.Green;
+                q2_5.Text = "請填寫答案";
+            }
+            else
+            {
+                q2_5.ForeColor = Color.Red;
+                q2_5.Text = "錯誤 A:false";
+            }
+
+            if (textBox17.Text.ToLower() == "false")
+            {
+                q2_6.ForeColor = Color.Green;
+                q2_6.Text = "正確";
+            }
+            else if (textBox17.Text == "")
+            {
+                q2_6.ForeColor = Color.Green;
+                q2_6.Text = "請填寫答案";
+            }
+            else
+            {
+                q2_6.ForeColor = Color.Red;
+                q2_6.Text = "錯誤 A:false";
+            }
+
         }
 
        

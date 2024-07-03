@@ -52,7 +52,7 @@ namespace WindowsFormsApp1
             }
 
 
-        
+
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -107,6 +107,26 @@ namespace WindowsFormsApp1
 
 
             MessageBox.Show(x.Count.ToString());
+
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            List<string> x = new List<string>();
+
+            x.Add("123");
+            x.Add("456");
+            x.Add("789");
+            x.Add("AAA");
+
+
+            foreach (string s in x)
+            {
+                comboBox1.Items.Add(s);
+
+            }
+
 
 
         }

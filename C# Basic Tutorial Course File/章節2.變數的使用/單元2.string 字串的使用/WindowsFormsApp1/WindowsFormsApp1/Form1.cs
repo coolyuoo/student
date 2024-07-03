@@ -113,6 +113,8 @@ namespace WindowsFormsApp1
 
         private void button11_Click(object sender, EventArgs e)
         {
+            //路徑
+
             string s = "C:\\YOUR\\JOB";
 
             MessageBox.Show(s);
@@ -120,7 +122,7 @@ namespace WindowsFormsApp1
 
         private void button12_Click(object sender, EventArgs e)
         {
-            string s = @"C:\\YOUR\\JOB";
+            string s = @"C:\YOUR\JOB";
 
             MessageBox.Show(s);
         }
@@ -128,9 +130,9 @@ namespace WindowsFormsApp1
         private void button13_Click(object sender, EventArgs e)
         {
             //打一個 會錯
-            //string s = "C:\YOUR\JOB";
+            string s = "C:\YOUR\JOB";
 
-            //MessageBox.Show(s);
+            MessageBox.Show(s);
         }
     }
 }
