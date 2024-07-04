@@ -1,7 +1,0 @@
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節7.如何讀取外部檔案\單元1.File 使用讀取純文字文件\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
