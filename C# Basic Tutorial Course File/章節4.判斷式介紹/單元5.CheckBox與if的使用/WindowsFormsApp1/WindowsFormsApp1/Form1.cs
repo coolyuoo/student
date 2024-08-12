@@ -19,6 +19,8 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+
             string input = "";
 
             if (checkBox1.Checked == true)
@@ -42,6 +44,8 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+
             string input = "";
 
             if (checkBox1.Checked == true)
@@ -65,6 +69,8 @@ namespace WindowsFormsApp1
 
         private void button3_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+
             string input = "";
 
             if (checkBox1.Checked == true)
@@ -89,19 +95,21 @@ namespace WindowsFormsApp1
         //contain  &&  ||
         private void button4_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+
             string input = "";
 
-            if (checkBox1.Checked == true && textBox1.Text.Contains("蘋果") == false)
+            if (checkBox1.Checked && textBox1.Text.Contains("蘋果") == false)
             {
                 input = input + "蘋果" + "\r\n";
             }
 
-            if (checkBox2.Checked == true && textBox1.Text.Contains("香蕉") == false)
+            if (checkBox2.Checked && textBox1.Text.Contains("香蕉") == false)
             {
                 input = input + "香蕉" + "\r\n";
             }
 
-            if (checkBox3.Checked == true && textBox1.Text.Contains("哈密瓜") == false)
+            if (checkBox3.Checked && textBox1.Text.Contains("哈密瓜") == false)
             {
                 input = input + "哈密瓜" + "\r\n";
             }
@@ -112,7 +120,23 @@ namespace WindowsFormsApp1
 
         private void button5_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
 
+            string input = "";
+
+            if (checkBox1.Checked || checkBox2.Checked)
+            {
+                input += "便宜" + "\r\n";
+            }
+
+            if (checkBox3.Checked)
+            {
+                input += "好貴" + "\r\n";
+            }
+
+
+
+            textBox1.Text += input;
         }
     }
 }

@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -25,6 +26,9 @@ namespace WindowsFormsApp1
             comboBox3.Items.Add("櫻桃");
 
 
+            comboBox4.DropDownStyle = ComboBoxStyle.DropDownList;
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -37,11 +41,17 @@ namespace WindowsFormsApp1
         private void button2_Click(object sender, EventArgs e)
         {
 
+            comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
+
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            label3.Text = comboBox4.Text;
 
+
+            //comboBox4.DataSource = comboBox4.Items;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -51,7 +61,6 @@ namespace WindowsFormsApp1
             comboBox4.Items.Add("哈密瓜");
             comboBox4.Items.Add("櫻桃");
 
-            comboBox4.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -62,9 +71,9 @@ namespace WindowsFormsApp1
             label5.Text = i.ToString();
         }
 
-        private void comboBox6_TextChanged(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e)
         {
-            label6.Text = comboBox6.Text;
+            comboBox6.DataSource = comboBox1.Items;
         }
     }
 }

@@ -39,11 +39,7 @@ namespace WindowsFormsApp1
             button2.ForeColor = Color.Red;
         }
 
-        private void button4_MouseMove(object sender, MouseEventArgs e)
-        {
-            toolTip1.Show($"Value:", button4);
-        }
-
+    
         private void button5_Click(object sender, EventArgs e)
         {
             button1.Text = "哈囉" + "\r\n" + "你好嗎";
@@ -78,9 +74,6 @@ namespace WindowsFormsApp1
             button12.Visible = false;
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
+     
     }
 }

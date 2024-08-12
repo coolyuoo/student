@@ -8,3 +8,13 @@ D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節3.基本控制�
 D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\CodeProject\線下教學\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CodeProject\線下教學\student\C# Basic Tutorial Course File\章節3.基本控制項使用\單元3.label使用\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

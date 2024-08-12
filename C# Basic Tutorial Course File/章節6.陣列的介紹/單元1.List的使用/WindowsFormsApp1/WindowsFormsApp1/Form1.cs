@@ -282,12 +282,39 @@ namespace WindowsFormsApp1
         private void button17_Click(object sender, EventArgs e)
         {
             List<DateTime> x = new List<DateTime>();
-            x.Add(new DateTime(2024,1,1));
+            x.Add(new DateTime(2024, 1, 1));
             x.Add(new DateTime(2022, 1, 1));
             x.Add(new DateTime(2023, 1, 1));
             x.Add(new DateTime(2025, 1, 1));
 
-            int y = x.Max();
+            DateTime y = x.Max();
+
+
+            MessageBox.Show(y.ToString());
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            List<DateTime> x = new List<DateTime>();
+            x.Add(new DateTime(2024, 1, 1));
+            x.Add(new DateTime(2022, 1, 1));
+            x.Add(new DateTime(2023, 1, 1));
+            x.Add(new DateTime(2025, 1, 1));
+
+
+            var c = x.OrderByDescending(o => o).ToList();
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            List<DateTime> x = new List<DateTime>();
+            x.Add(new DateTime(2024, 1, 1));
+            x.Add(new DateTime(2022, 1, 1));
+            x.Add(new DateTime(2023, 1, 1));
+            x.Add(new DateTime(2025, 1, 1));
+
+
+            var c = x.OrderBy(o => o).ToList();
         }
     }
 }

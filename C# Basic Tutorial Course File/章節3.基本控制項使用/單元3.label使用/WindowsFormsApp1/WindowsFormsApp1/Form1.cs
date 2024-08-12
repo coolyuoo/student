@@ -29,12 +29,17 @@ namespace WindowsFormsApp1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label1.BackColor = Color.White;
+            label1.BackColor = Color.Aqua;
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("966");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label1.Font = 
         }
     }
 }

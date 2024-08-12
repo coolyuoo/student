@@ -36,38 +36,38 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(105, 70);
+            this.dateTimePicker1.Location = new System.Drawing.Point(50, 46);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 22);
             this.dateTimePicker1.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(402, 70);
+            this.button1.Location = new System.Drawing.Point(310, 46);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(98, 33);
+            this.button1.Size = new System.Drawing.Size(139, 45);
             this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
+            this.button1.Text = "印出當前日期";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(402, 148);
+            this.button2.Location = new System.Drawing.Point(310, 119);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(98, 33);
+            this.button2.Size = new System.Drawing.Size(139, 47);
             this.button2.TabIndex = 2;
-            this.button2.Text = "button2";
+            this.button2.Text = "只能選擇未來日期";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(402, 208);
+            this.button3.Location = new System.Drawing.Point(310, 200);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(98, 33);
+            this.button3.Size = new System.Drawing.Size(139, 48);
             this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
+            this.button3.Text = "修改日期格式";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -75,7 +75,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1043, 450);
+            this.ClientSize = new System.Drawing.Size(539, 278);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);

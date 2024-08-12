@@ -51,6 +51,7 @@
             this.groupBox6 = new System.Windows.Forms.GroupBox();
             this.label6 = new System.Windows.Forms.Label();
             this.comboBox6 = new System.Windows.Forms.ComboBox();
+            this.button6 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -127,7 +128,6 @@
             // 
             // comboBox2
             // 
-            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
             "蘋果",
@@ -280,12 +280,13 @@
             // 
             this.groupBox6.Controls.Add(this.label6);
             this.groupBox6.Controls.Add(this.comboBox6);
+            this.groupBox6.Controls.Add(this.button6);
             this.groupBox6.Location = new System.Drawing.Point(566, 286);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(501, 100);
             this.groupBox6.TabIndex = 5;
             this.groupBox6.TabStop = false;
-            this.groupBox6.Text = "6.選取事件";
+            this.groupBox6.Text = "6.程式碼source設定items";
             // 
             // label6
             // 
@@ -299,17 +300,21 @@
             // comboBox6
             // 
             this.comboBox6.FormattingEnabled = true;
-            this.comboBox6.Items.AddRange(new object[] {
-            "蘋果",
-            "香蕉",
-            "哈密瓜",
-            "鳳梨"});
             this.comboBox6.Location = new System.Drawing.Point(27, 44);
             this.comboBox6.Name = "comboBox6";
             this.comboBox6.Size = new System.Drawing.Size(155, 20);
             this.comboBox6.TabIndex = 1;
             this.comboBox6.Text = "請選擇:";
-            this.comboBox6.TextChanged += new System.EventHandler(this.comboBox6_TextChanged);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(242, 34);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(108, 39);
+            this.button6.TabIndex = 0;
+            this.button6.Text = "執行";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // Form1
             // 
@@ -365,6 +370,7 @@
         private System.Windows.Forms.GroupBox groupBox6;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.ComboBox comboBox6;
+        private System.Windows.Forms.Button button6;
     }
 }
 

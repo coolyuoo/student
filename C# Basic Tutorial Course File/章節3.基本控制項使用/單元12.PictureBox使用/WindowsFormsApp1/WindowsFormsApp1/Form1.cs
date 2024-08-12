@@ -33,11 +33,7 @@ namespace WindowsFormsApp1
          
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage; // 拉伸或壓縮圖像以填滿PictureBox的大小
-        }
-
+   
 
         //事件 是一種行為 代表你對這個控制項做了甚麼事情
         //依照多年經驗 你只會用到click 

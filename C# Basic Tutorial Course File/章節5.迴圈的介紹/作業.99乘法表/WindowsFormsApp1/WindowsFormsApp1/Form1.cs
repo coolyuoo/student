@@ -16,10 +16,8 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //這是每行有幾個星星的容器
             string n = "";
 
-            //2.再印出五個*
             for (int j = 1; j <= 9; j++)
             {
                 string y = 2.ToString() + " * " + j.ToString() + " = " + (2 * j);

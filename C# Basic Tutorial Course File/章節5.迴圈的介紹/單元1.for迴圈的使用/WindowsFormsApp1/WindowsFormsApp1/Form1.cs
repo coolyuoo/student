@@ -15,6 +15,15 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+
+            //for (初始設定; 條件; 每次迴圈結束後的執行動作)
+            //{
+            //    // 迴圈內執行的程式碼
+            //}
+
+            //從db取資料
+            //塞資料到db
+
         }
 
         private void button1_Click(object sender, EventArgs e)

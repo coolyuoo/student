@@ -74,13 +74,13 @@ namespace WindowsFormsApp1
 
             string x = "";//這是裝行數的容器
 
-            //1.先印出八行
+            //2.先印出八行
             for (int i = 0; i < 8; i++)
             {
                 //這是每行有幾個星星的容器
                 string n = "";
 
-                //2.再印出五個*
+                //1.再印出五個* 
                 for (int j = 0; j < 5; j++)
                 {
                     string y = "*";
@@ -107,7 +107,7 @@ namespace WindowsFormsApp1
                 string n = "";
 
                 //2.再印出五個*
-                for (int j = 0; j < 5; j++)
+                for (int j = 0; j < 8; j++)
                 {
 
                     string y = "*";
@@ -139,7 +139,7 @@ namespace WindowsFormsApp1
                 string n = "";
 
                 //2.再印出五個*
-                for (int j = 0; j < 5; j++)
+                for (int j = 0; j < 8; j++)
                 {
 
                     string y = "*";

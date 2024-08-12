@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF410F5-0854-488B-8705-B5D437E37E0A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{54E0EF8A-8FCB-4644-A71F-0335C3001688}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54E0EF8A-8FCB-4644-A71F-0335C3001688}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF410F5-0854-488B-8705-B5D437E37E0A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\codeproject\\\u7DDA\u4E0B\u6559\u5B78\\student\\c# basic tutorial course file\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CF410F5-0854-488B-8705-B5D437E37E0A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF410F5-0854-488B-8705-B5D437E37E0A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\codeproject\\\u7DDA\u4E0B\u6559\u5B78\\student\\c# basic tutorial course file\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF410F5-0854-488B-8705-B5D437E37E0A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54E0EF8A-8FCB-4644-A71F-0335C3001688}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E0EF8A-8FCB-4644-A71F-0335C3001688}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIAxwBQAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T10:23:14.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T00:51:57.36Z",
+              "WhenOpened": "2024-07-07T12:16:56.281Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIA5wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:57:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\CodeProject\\\u7DDA\u4E0B\u6559\u5B78\\student\\C# Basic Tutorial Course File\\\u7AE0\u7BC03.\u57FA\u672C\u63A7\u5236\u9805\u4F7F\u7528\\\u55AE\u51431.button\u4F7F\u7528\\WindowsFormsApp1\\WindowsFormsApp2\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:58:54.207Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
